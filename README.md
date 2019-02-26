@@ -1,5 +1,5 @@
 # Planetarium
-A solar system simulation for university
+A solar system simulation for university wich include two amera modes. Those camera modes are global camera and third person camera(associated to an object).
 
 ## Content
 In this repository you can find:
@@ -15,7 +15,6 @@ This function draws and gives style and movement to the different drawn planets.
 In addition this function calls drawSatellite which draws a satellite around Jupiter planet.
 ### drawShip()
 This function draws and gives style and movement to the spaceShip.
-
 
 ## Controls
 When executing the code you can move the spaceShip in two ways:
